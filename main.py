@@ -5,13 +5,13 @@
 sentence = "Especially in electronic communications, writing in all caps is equivalent to yelling."
 
 print(sentence.upper())
-
+print("hello")
 # String Methods Practice #2
 # Join the following list into a string, separating each item with a space. Use the appropriate list/string method, and display the result.
 word_list = ["Simple","is","better","than","complex."]
 word_list2 = " ".join(word_list)
 print(word_list2)
-
+print("hello world")
 # String Methods Practice #3
 # Replace in the following sentence:
 # "If the implementation is hard to explain, it might be a bad idea."
